@@ -4,25 +4,25 @@ export const ProjectList = [
     img: "/blog.png",
     title: "Article Website",
     description:
-      "Sebuah website blog / artikel tentang progrraming yg di bangun dengan ReactJS",
+      "a responsive blog article website with nextjs",
     tech_stack: ["React Native", "Responsive", "NextJs", "TailwindCSS"],
     github_url: "",
     demo_url: "https://mutiadiscoveries.my.id",
   },
   {
     img: "/sekolah.png",
-    title: "Website Sekolah",
+    title: "School Website",
     description:
-      "Website Sekolah SMK Negeri 3 METRO yang di buat dengan PHP HTML CSS",
+      "SMK NEGERI 3 METRO school website with php full mysql database connection",
     tech_stack: ["PHP", "HTML", "CSS"],
     github_url: "",
     demo_url: "",
   },
   {
     img: "/data.png",
-    title: "Manajemen Siswa",
+    title: "Managed Students",
     description:
-      "Sistem Tambah dan cari data siswa, Untuk Memudahkan memanajemen data siswa",
+      "A system that makes it easier to manage student data",
     tech_stack: ["PHP", "MySQL", "Database"],
     github_url: "",
     demo_url: "",
@@ -31,16 +31,16 @@ export const ProjectList = [
     img: "/market.png",
     title: "Marketplace",
     description:
-      "Website Marketplace yang di bangun dengan Laravel Dan React lalu di koneksikan dengan API.",
+      "Marketplace website built with Laravel and React then connected to an API.",
     tech_stack: ["ReactJs", "NodeJs", "Laravel", "API", "MySQL"],
     github_url: "",
     demo_url: "",
   },
   {
     img: "/anime.png",
-    title: "Anime Website",
+    title: "Anime Stream Website",
     description:
-      "Simple website anime dengan ColorLIB, koneksi Full Database",
+      "Simple anime streaming website with ColorLIB, Full Database connection",
     tech_stack: ["PHP", "Laravel", "NodeJs", "MySQL"],
     github_url: "",
     demo_url: "",
