@@ -23,14 +23,13 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hai namaku <strong>Mutia Pegi Intanswari</strong>, Aku berasal dari palembang dan tinggal di Metro selama 1 tahun terakhir untuk menempuh pendidikan ku di SMK Negeri 3 METRO, selama berada di Metro aku mendapatkan banyak pengalaman yang berharga
+             Hello! My name is Mutia Pegi Intanswari, and I am based in Indonesia. I am passionate about technology and love exploring new ways to solve problems through coding and development. Welcome to my portfolio!
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            Perjalanan ku memasuki dunia Programming di awali disini. karena aku mengambil Jurusan <strong>Rekayasa Perangkat Lunak</strong>, FYI aku udah belajar coding sejak tahun 2021 yaa.. karena pandemi juga sih pada saat itu, jadi aku mencari suatu kesibukan dan aku tertarik dengan coding, ok skip.., banyak pengalaman yang telah aku lalui selama 1 tahun terakhir ini di SMK NEGERI 3 METRO yang pastinya sih aku dapet temen temen yang baik banget sama aku, kedua aku juga suka banget sama orang orang di sekitarnya ( Guru ), pokonya seru banget sih sekolah disana, dan yang paling bikin aku seneng adalah aku keipilih buat wakilin sekolah di <strong>LKS(Lomba Kompetensi Siswa)</strong> Bidang Web Technology Tingkat Kota METRO dan alhamdullah aku berhasil lolos dan masuk ke Tingkat Provinsi Lampung yang di adakan di SMK NEGERI 7 BANDAR LAMPUNG, pas lomba di provinsi deg degan parah sih karena lawanya 10 orang dan aku cewe sendiri disana, lks di provinsi berlangsung selama 2 hari dan Alhamdulillah gak nyangka aku bisa lolos dan masuk ke Tingkat NASIONAL yg bakal di adakan di POLINELA ( PoliTeknik Negeri Lampung) pada bulan AGUSTUS BESOK, mungkin segini aja ya, OH IYA aku cerita tentang pengalamanku menang lks bukan berarti aku sombong yaaa, aku cuma pengen kalian termotivasi dengan ceritaku, TETAP SEMANGAT !!
-            </ScrollAnimation>
+           I am currently a student at SMK Negeri 3 Metro, where I am pursuing a vocational education in Software Engineering (Rekayasa Perangkat Lunak). My coursework has provided me with a solid understanding of software development, programming, and problem-solving, equipping me with the technical skills necessary to thrive in the tech industry. In addition to my formal education, I actively participate in online courses and attend workshops to stay updated with the latest trends and advancements in technology.
 
             <br /><br />
 
