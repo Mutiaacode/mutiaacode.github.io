@@ -73,7 +73,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               <Image
-                src="/MMS08127-fotor-2024052311591.png"
+                src="/ryo.png"
                 alt="mutia"
               />
             </ScrollAnimation>
