@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 
 export const Nav = styled.nav`
   background: transparent;
-  height: 50px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: space-between;
