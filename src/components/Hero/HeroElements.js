@@ -79,7 +79,7 @@ export const HeroRight = styled.div`
 `;
 
 export const Image = styled.img`
-  height: 200px;
+  height: 325px;
   width: auto;
 `;
 
