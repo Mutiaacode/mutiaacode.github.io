@@ -23,13 +23,14 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-             Hello! My name is Mutia Pegi Intanswari, and I am based in Indonesia. I am passionate about technology and love exploring new ways to solve problems through coding and development. Welcome to my portfolio!
+            Hello! My name is Mutia Pegi Intanswari, and I am based in Indonesia. I am passionate about technology and love exploring new ways to solve problems through coding and development. Welcome to my portfolio!
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-           I am currently a student at SMK Negeri 3 Metro, where I am pursuing a vocational education in Software Engineering (Rekayasa Perangkat Lunak). My coursework has provided me with a solid understanding of software development, programming, and problem-solving, equipping me with the technical skills necessary to thrive in the tech industry. In addition to my formal education, I actively participate in online courses and attend workshops to stay updated with the latest trends and advancements in technology.
+            I am currently a student at SMK Negeri 3 Metro, where I am pursuing a vocational education focused on [your specific area of study, e.g., Computer and Network Engineering]. My coursework has provided me with a solid understanding of [relevant fields, e.g., web development, software engineering, networking], equipping me with the technical skills necessary to thrive in the tech industry. In addition to my formal education, I actively participate in online courses and attend workshops to stay updated with the latest trends and advancements in technology.
+            </ScrollAnimation>
 
             <br /><br />
 
